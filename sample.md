@@ -1,8 +1,3 @@
-Below is the rewritten GitHub README that not only outlines the project and its steps but also includes code examples for both list-style and C-style for loops.
-
----
-
-```markdown
 # LINUX SHELL SCRIPTING
 
 ## Table of Contents
@@ -202,5 +197,3 @@ fi
   ```sh
   git remote add origin <repository_url>
   ```
-
----
